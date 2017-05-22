@@ -22,7 +22,9 @@ nslookup
 
 [passivedns](https://github.com/gamelinux/passivedns)
 
+[httpbin](http://httpbin.org/) - various HTTP scenarios you can use to test your server
 
+[mockbin](http://mockbin.org/) - similar to Httpbin
 
 ### Load Testing
 
