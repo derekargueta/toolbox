@@ -1,4 +1,4 @@
-# toolbox
+# toolbox <img src="https://image.flaticon.com/icons/png/512/31/31353.png" width="70"/>
 
 Sometimes can't remember what's all in my toolbox ¯\_(ツ)_/¯ These are CLI tools - not libraries or services. (although some tools are implemented as libraries I guess...)
 Making this repo because my stars get cluttered with tools, services, libraries, compilers, interpreters, code-I-just-wanna-read, projects-that-I-wanna-contribute-to.
