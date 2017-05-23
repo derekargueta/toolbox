@@ -30,6 +30,8 @@ nslookup - query nameservers interactively, also built into Unix
 
 [putsreq](http://putsreq.com/) - also similar to above, mock HTTP requests
 
+[httpstat](http://httpstat.us/) - returns a any specified HTTP status code
+
 ### Load Testing
 
 [hey](https://github.com/rakyll/hey)
