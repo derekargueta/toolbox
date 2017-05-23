@@ -26,6 +26,10 @@ nslookup
 
 [mockbin](http://mockbin.org/) - similar to Httpbin
 
+[requestb.in](https://requestb.in/) - similar to above, mock HTTP requests
+
+[putsreq](http://putsreq.com/) - also similar to above, mock HTTP requests
+
 ### Load Testing
 
 [hey](https://github.com/rakyll/hey)
@@ -62,6 +66,9 @@ nslookup
 
 [gixy](https://github.com/yandex/gixy) - Nginx config static analyzer
 
+### PostgreSQL
+
+[pgweb](http://sosedoff.github.io/pgweb/) - web interface to PostgreSQL
 
 ### General Web Analysis
 
