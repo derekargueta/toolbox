@@ -8,17 +8,17 @@ The idea behind this is before starting any project, I can come here and decide 
 
 ### Network Debugging/Investigation - DNS, TCP, HTTP, etc.
 
-dig
+dig - DNS lookup utility built into Unix
 
-[dt](https://github.com/42wim/dt)
+[dt](https://github.com/42wim/dt) - DNS information about a domain
 
-nslookup
+nslookup - query nameservers interactively, also built into Unix
 
 [dnsdiff](https://github.com/joshenders/dnsdiff) - compare responses from 2 different nameservers
 
-[dnsviz](https://github.com/dnsviz/dnsviz)
+[dnsviz](https://github.com/dnsviz/dnsviz) - visualize DNS information ([companion site](http://dnsviz.net/))
 
-[httpie](https://github.com/jakubroztocil/httpie)
+[httpie](https://github.com/jakubroztocil/httpie) - fancy cURL utility
 
 [passivedns](https://github.com/gamelinux/passivedns)
 
@@ -82,18 +82,20 @@ Chrome Developer Tools :)
 
 ### Reverse Engineering
 
-gdb
+gdb - GNU debugger, built into Unix, with its own [scripting language](http://www.adacore.com/adaanswers/gems/gem-119-gdb-scripting-part-1/). Also very useful for general Unix debugging
 
 [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)
 
 [gdbgui](https://github.com/cs01/gdbgui) - a GUI for GDB
 
-[radare2](https://github.com/radare/radare2)
+[radare2](https://github.com/radare/radare2) - reverse engineering / decompiling tool
 
 
 ### General SysAdmin-ship
 
-[ctop](https://github.com/bcicen/ctop) `top` for containers
+[ctop](https://github.com/bcicen/ctop) - `top` for containers
+
+gdb - see RE section
 
 
 
