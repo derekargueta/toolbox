@@ -97,6 +97,7 @@ gdb - GNU debugger, built into Unix, with its own [scripting language](http://ww
 
 gdb - see RE section
 
+[goss](https://github.com/aelsabbahy/goss) - Server configuration validation/testing
 
 
 
