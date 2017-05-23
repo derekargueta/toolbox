@@ -70,6 +70,8 @@ nslookup - query nameservers interactively, also built into Unix
 
 [pgweb](http://sosedoff.github.io/pgweb/) - web interface to PostgreSQL
 
+[DBShield](https://github.com/nim4/DBShield) - application firewall to sit in front of your database, protect against suspicious queries and whatnot
+
 ### General Web Analysis
 
 [http-observatory](https://github.com/mozilla/http-observatory)
