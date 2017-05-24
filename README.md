@@ -46,6 +46,8 @@ nslookup - query nameservers interactively, also built into Unix
 
 [infer](https://github.com/facebook/infer) - static analyzer for Java, C, C++, and Objective-C (geared towards mobile development?)
 
+[Valgrind](http://valgrind.org/) - memory profiler and other goodies to keep your 1's and 0's in line.
+
 ### Go Programming
 
 [golint](https://github.com/golang/lint)
