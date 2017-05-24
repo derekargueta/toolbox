@@ -40,6 +40,8 @@ nslookup - query nameservers interactively, also built into Unix
 
 [wrk](https://github.com/wg/wrk)
 
+[vegeta](https://github.com/tsenart/vegeta)
+
 ### C/C++ Programming
 
 [infer](https://github.com/facebook/infer) - static analyzer for Java, C, C++, and Objective-C (geared towards mobile development?)
