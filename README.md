@@ -7,17 +7,17 @@ This is the lazy way of cleaning out the closet.
 The idea behind this is before starting any project, I can come here and decide at the beginning of the projects which tools I'd like to incorporate to improve developer productivity from the get-go.
 
 Contents:
- - [Networking](#Networking)
- - [Load Testing](#Load-Testing)
- - [C/C++ Programming](#CC-Programming)
- - [Go Programming](#Go-Programming)
- - [Python Programming](#Python-Programming)
- - [Lua Programming](#Lua-Programming)
- - [Nginx Development](#Nginx-Development)
- - [PostgreSQL](#PostgreSQL)
- - [General Web Analysis](#General-Web-Analysis)
- - [Reverse Engineering](#Reverse-Engineering)
- - [General SysAdminship](#General-SysAdminship)
+ - [Networking](#networking)
+ - [Load Testing](#load-testing)
+ - [C/C++ Programming](#cc-programming)
+ - [Go Programming](#go-programming)
+ - [Python Programming](#python-programming)
+ - [Lua Programming](#lua-programming)
+ - [Nginx Development](#nginx-development)
+ - [PostgreSQL](#postgresql)
+ - [General Web Analysis](#general-web-analysis)
+ - [Reverse Engineering](#reverse-engineering)
+ - [General SysAdminship](#general-sysadminship)
 
 ### Networking
 
