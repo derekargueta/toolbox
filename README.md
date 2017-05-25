@@ -86,6 +86,8 @@ nslookup - query nameservers interactively, also built into Unix
 
 [psi](https://github.com/addyosmani/psi) - Pagespeed insights reporting
 
+[performance-bookmarklet](https://github.com/micmro/performance-bookmarklet) - Browser extension to provide in-depth performance analysis of a webpage.
+
 Chrome Developer Tools :)
 
 ### Reverse Engineering
