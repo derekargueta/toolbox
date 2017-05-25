@@ -6,11 +6,26 @@ This is the lazy way of cleaning out the closet.
 
 The idea behind this is before starting any project, I can come here and decide at the beginning of the projects which tools I'd like to incorporate to improve developer productivity from the get-go.
 
-### Network Debugging/Investigation - DNS, TCP, HTTP, etc.
+Contents:
+ - [Networking](#Networking)
+ - [Load Testing](#Load-Testing)
+ - [C/C++ Programming](#CC-Programming)
+ - [Go Programming](#Go-Programming)
+ - [Python Programming](#Python-Programming)
+ - [Lua Programming](#Lua-Programming)
+ - [Nginx Development](#Nginx-Development)
+ - [PostgreSQL](#PostgreSQL)
+ - [General Web Analysis](#General-Web-Analysis)
+ - [Reverse Engineering](#Reverse-Engineering)
+ - [General SysAdminship](#General-SysAdminship)
 
-dig - DNS lookup utility built into Unix
+### Networking
+
+[dig](https://linux.die.net/man/1/dig) - DNS lookup utility built into Unix
 
 [dt](https://github.com/42wim/dt) - DNS information about a domain
+
+[netstat](https://linux.die.net/man/8/netstat) - Unix utility for displaying network connections
 
 nslookup - query nameservers interactively, also built into Unix
 
@@ -101,7 +116,7 @@ gdb - GNU debugger, built into Unix, with its own [scripting language](http://ww
 [radare2](https://github.com/radare/radare2) - reverse engineering / decompiling tool
 
 
-### General SysAdmin-ship
+### General SysAdminship
 
 [ctop](https://github.com/bcicen/ctop) - `top` for containers
 
