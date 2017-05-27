@@ -103,6 +103,8 @@ nslookup - query nameservers interactively, also built into Unix
 
 [performance-bookmarklet](https://github.com/micmro/performance-bookmarklet) - Browser extension to provide in-depth performance analysis of a webpage.
 
+[pshtt](https://github.com/dhs-ncats/pshtt) - HTTPS analyzer
+
 Chrome Developer Tools :)
 
 ### Reverse Engineering
