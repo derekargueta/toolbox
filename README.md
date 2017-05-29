@@ -57,6 +57,10 @@ nslookup - query nameservers interactively, also built into Unix
 
 [vegeta](https://github.com/tsenart/vegeta)
 
+### Servers
+
+[uwsgi](https://uwsgi-docs.readthedocs.io/en/latest/) + [uwsgitop](https://github.com/xrmx/uwsgitop) - WSGI server (sits in between application and proxy) + Monitoring/Statistics. APIs for Python, Perl, Ruby, and Lua.
+
 ### C/C++ Programming
 
 [infer](https://github.com/facebook/infer) - static analyzer for Java, C, C++, and Objective-C (geared towards mobile development?)
