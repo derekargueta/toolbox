@@ -83,6 +83,10 @@ nslookup - query nameservers interactively, also built into Unix
 
 [fabric](https://github.com/fabric/fabric) - remote task execution/automation
 
+[tox](https://github.com/tox-dev/tox) - virtualenv management and test command line tool
+
+[pylint](https://github.com/PyCQA/pylint) - Python source analyzer
+
 ### Lua Programming
 
 [luacheck](https://github.com/mpeterv/luacheck)
