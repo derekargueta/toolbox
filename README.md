@@ -67,9 +67,17 @@ nslookup - query nameservers interactively, also built into Unix
 
 [Valgrind](http://valgrind.org/) - memory profiler and other goodies to keep your 1's and 0's in line.
 
+[include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - Analyze headers to reduce unnecessary imports
+
+[ClangFormat](http://clang.llvm.org/docs/ClangFormat.html) - automated formatting
+
+[CppCheck](http://cppcheck.sourceforge.net/) - static analysis
+
 ### Go Programming
 
 [golint](https://github.com/golang/lint)
+
+[gofmt](https://golang.org/cmd/gofmt/) - automated formatting, built into Go distribution
 
 ### Python Programming
 
