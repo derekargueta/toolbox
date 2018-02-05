@@ -33,8 +33,6 @@ nslookup - query nameservers interactively, also built into Unix
 
 [dnsviz](https://github.com/dnsviz/dnsviz) - visualize DNS information ([companion site](http://dnsviz.net/))
 
-[httpie](https://github.com/jakubroztocil/httpie) - fancy cURL utility
-
 [passivedns](https://github.com/gamelinux/passivedns)
 
 [httpbin](http://httpbin.org/) - various HTTP scenarios you can use to test your server
@@ -73,6 +71,8 @@ nslookup - query nameservers interactively, also built into Unix
 
 [CppCheck](http://cppcheck.sourceforge.net/) - static analysis
 
+[c++filt](https://linux.die.net/man/1/c++filt) - Java & C++ symbol demangling
+
 ### Go Programming
 
 [golint](https://github.com/golang/lint)
@@ -83,17 +83,17 @@ nslookup - query nameservers interactively, also built into Unix
 
 [pyheat](https://github.com/csurfer/pyheat) - profiler
 
-[profiling](https://github.com/what-studio/profiling) - profiler
-
 [mypy](https://github.com/python/mypy) - static type-checker
 
 [nose](https://github.com/nose-devs/nose) - test-runner
 
-[fabric](https://github.com/fabric/fabric) - remote task execution/automation
+[fabric](https://github.com/fabric/fabric) - remote task execution/automation ([Python 3 fork](https://github.com/mathiasertl/fabric/))
 
 [tox](https://github.com/tox-dev/tox) - virtualenv management and test command line tool
 
 [pylint](https://github.com/PyCQA/pylint) - Python source analyzer
+
+[profiling](https://github.com/what-studio/profiling) - profiler (untested)
 
 ### Lua Programming
 
@@ -136,11 +136,11 @@ gdb - GNU debugger, built into Unix, with its own [scripting language](http://ww
 
 ### General SysAdminship
 
-[ctop](https://github.com/bcicen/ctop) - `top` for containers
+[ctop](https://github.com/bcicen/ctop) - `top` for containers (untested)
 
 gdb - see RE section
 
-[goss](https://github.com/aelsabbahy/goss) - Server configuration validation/testing
+[goss](https://github.com/aelsabbahy/goss) - Server configuration validation/testing (untested)
 
 
 
