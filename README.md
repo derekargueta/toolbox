@@ -15,6 +15,7 @@ Contents:
  - [Lua Programming](#lua-programming)
  - [Nginx Development](#nginx-development)
  - [PostgreSQL](#postgresql)
+ - [Performance Engineering](#performance-engineering)
  - [General Web Analysis](#general-web-analysis)
  - [Reverse Engineering](#reverse-engineering)
  - [General SysAdminship](#general-sysadminship)
@@ -108,6 +109,9 @@ nslookup - query nameservers interactively, also built into Unix
 [pgweb](http://sosedoff.github.io/pgweb/) - web interface to PostgreSQL
 
 [DBShield](https://github.com/nim4/DBShield) - application firewall to sit in front of your database, protect against suspicious queries and whatnot
+
+### Performance Engineering
+[FlameGraph](https://github.com/brendangregg/FlameGraph) - tools to create performance flamegraphs from Brendan Gregg of Netflix
 
 ### General Web Analysis
 
